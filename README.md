@@ -14,14 +14,14 @@ Frps服务端一键配置脚本，Frp最新版本：0.51.0
 #### Github
 ARM
 ```Bash
-wget https://raw.githubusercontent.com/jane77u/frps-onekey/main/install-frps.sh -O ./install-frps.sh
+wget https://raw.githubusercontent.com/373385177/frps-onekey/main/install-frps.sh -O ./install-frps.sh
 chmod 700 ./install-frps.sh
 ./install-frps.sh install
 ```
 
 AMD
 ```Bash
-wget https://raw.githubusercontent.com/jane77u/frps-onekey/main/install-frps_amd.sh -O ./install-frps.sh
+wget https://raw.githubusercontent.com/373385177/frps-onekey/main/install-frps_amd.sh -O ./install-frps.sh
 chmod 700 ./install-frps.sh
 ./install-frps.sh install
 ```
